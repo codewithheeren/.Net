@@ -1,7 +1,7 @@
 ## WPF - Grid Layout
 
 /* 
-5. Create a form with three rows of different color assuming that 1st row will be header and last row will be footer and then fix the size of first and last row in responsive design.
+6. In extention of task5 second row (content pane) divide that in to 3 columns with different colors and their size proposional should be as 40% , 40%, 20% each resepectivly.
 */ 
 ### MainWindow.xaml
 ```html
@@ -22,10 +22,21 @@
         <!-- Menu Bar -->
         <Rectangle Grid.Row="0" Fill="red" />
         <!-- Content Pane -->
-        <Rectangle Grid.Row="1" Fill="yellow" />
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40*"/>
+                <ColumnDefinition Width="40*"/>
+                <ColumnDefinition Width="20*"/>
+            </Grid.ColumnDefinitions>
+            
+            <Rectangle Grid.Column="0" Fill="Gray" />
+            <Rectangle Grid.Column="1" Fill="black" />
+            <Rectangle Grid.Column="2" Fill="MintCream" />
+        </Grid>
         <!-- Footer -->
         <Rectangle Grid.Row="2" Fill="Orange" />
     </Grid>
 </Window>
+
 ```
 ---
