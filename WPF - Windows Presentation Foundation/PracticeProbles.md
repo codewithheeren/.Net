@@ -8,9 +8,9 @@ Note - If you directly drag and drop form component then it will automatically a
 4. Create a form with grid of 3x2 where each ractangle filled with different color.
 5. Create a form with three rows of different color assuming that 1st row will be menu bar and second row is content pane and last row will be footer and then fix the size of first and last row in responsive design. 
 6. In extention of task5 second row (content pane) divide that in to 3 columns with different colors and their size proposional should be as 40% , 40%, 20% each resepectivly.
-
+7. Create a wpf with menu bar (File(inside file menu -> Exit), Edit) , just below the menu within header create button and textbox.
 
 Some Important properties - 
 button -
-<Button Name="btn" Content="Click Me" Height="30" Width="80"  VerticalAlignment="Center" HorizontalAlignment="Center"
-FontSize="18" />
+Button Name="btn" Content="Click Me" Height="30" Width="80"  VerticalAlignment="Center" HorizontalAlignment="Center"
+FontSize="18"
