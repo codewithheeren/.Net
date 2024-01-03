@@ -32,8 +32,9 @@
 
 /* 
 8.2 Create a custom text box .
-*/ 
+*/   
 Directory Structure -
+![image](https://github.com/codewithheeren/.Net/assets/87074236/f17faccd-ee23-4081-8adc-6190f481f36e)
 
 ### ReusableTextBox.xaml
 ```html
