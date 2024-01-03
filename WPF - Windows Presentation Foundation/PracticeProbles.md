@@ -9,6 +9,9 @@ Note - If you directly drag and drop form component then it will automatically a
 5. Create a form with three rows of different color assuming that 1st row will be menu bar and second row is content pane and last row will be footer and then fix the size of first and last row in responsive design. 
 6. In extention of task5 second row (content pane) divide that in to 3 columns with different colors and their size proposional should be as 40% , 40%, 20% each resepectivly.
 7. Create a wpf with menu bar (File(inside file menu -> Exit), Edit) , just below the menu within header create button and textbox.
+8. Create a form to get customer details such as name, address,contact, pincode.
+    1. Create form with out using custom control for text box.
+    2. Create a custom text box .
 
 Some Important properties - 
 button -
