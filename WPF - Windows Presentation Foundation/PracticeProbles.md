@@ -12,6 +12,7 @@ Note - If you directly drag and drop form component then it will automatically a
 8. Create a form to get customer details such as name, address,contact, pincode.
     1. Create form with out using custom control for text box.
     2. Create a custom text box .
+    3. Implement Custom Controls in User form page.
 
 Some Important properties - 
 button -
