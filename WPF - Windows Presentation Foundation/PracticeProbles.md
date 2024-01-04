@@ -13,7 +13,8 @@ Note - If you directly drag and drop form component then it will automatically a
     1. Create form with out using custom control for text box.
     2. Create a custom text box .
     3. Implement Custom Controls in User form page.
-    4. Add events to the form such as clear button should work, text box should be editable.
+    4. Add events to the form such as clear button should work, text box should be editable.  
+9. Create following design where on typing in text field same value should show in textblock and on clicking on button a value will set to property but that will not reflect on text field.
 
 Some Important properties - 
 button -
