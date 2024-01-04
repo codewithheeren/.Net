@@ -13,6 +13,7 @@ Note - If you directly drag and drop form component then it will automatically a
     1. Create form with out using custom control for text box.
     2. Create a custom text box .
     3. Implement Custom Controls in User form page.
+    4. Add events to the form such as clear button should work, text box should be editable.
 
 Some Important properties - 
 button -
