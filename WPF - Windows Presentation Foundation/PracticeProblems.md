@@ -27,6 +27,8 @@ After Click on SetValue button
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/4c209c47-8953-43d1-8851-33367ad64cef)
 
 
+11. Generate open file dialog on click on button as shown in given image.   
+
 
 
 Some Important properties - 
