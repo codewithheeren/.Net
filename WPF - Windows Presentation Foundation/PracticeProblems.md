@@ -27,10 +27,11 @@ After Click on SetValue button
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/4c209c47-8953-43d1-8851-33367ad64cef)
 
 
-11. Generate open file dialog on click on button as shown in given image.   
+11. Generate open file dialog on click on button as shown in given image.
 
+![image](https://github.com/codewithheeren/.Net/assets/87074236/1064547e-64af-4a08-9b7c-0b9276074ffb)  
 
-
+  
 Some Important properties - 
 button -
 Button Name="btn" Content="Click Me" Height="30" Width="80"  VerticalAlignment="Center" HorizontalAlignment="Center"
