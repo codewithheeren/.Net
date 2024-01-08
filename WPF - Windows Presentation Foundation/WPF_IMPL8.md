@@ -1,7 +1,7 @@
 ## WPF - Event Handling
 
 /* 
-9 Create following design where on typing in text field same value should show in textblock and on clicking on button a value will set to property but that will not reflect on text field.
+9. Create following design where on typing in text field same value should show in textblock and on clicking on button a value will set to property but that will not reflect on text field.
 */   
 
 ### MainWindow.xaml

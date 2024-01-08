@@ -1,4 +1,4 @@
-## WPF - OpenFileDialog (File Picker)
+## WPF - Stack Panel Implementation
 
 /* 
 13. Implement Stack Panel , Nested stack panel with different orientations.

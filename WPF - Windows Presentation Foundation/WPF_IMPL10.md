@@ -1,4 +1,4 @@
-## WPF - OpenFileDialog (File Picker)
+## WPF - OpenFolderDialog (Folder Picker)
 
 /* 
 12. Generate folder browser dialog box on click of button
