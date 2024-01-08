@@ -32,7 +32,8 @@ After Click on SetValue button
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/1064547e-64af-4a08-9b7c-0b9276074ffb)  
 
 12. Generate folder browser dialog box on click of button
-  
+13. Implement Stack Panel , Nested stack panel with different orientations. Ref Design - 
+
 Some Important properties - 
 button -
 Button Name="btn" Content="Click Me" Height="30" Width="80"  VerticalAlignment="Center" HorizontalAlignment="Center"

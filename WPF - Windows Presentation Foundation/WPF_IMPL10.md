@@ -56,3 +56,16 @@ namespace CodeWithHeeren
 
 ```
 ---
+### App.xaml.cs
+```cs
+using Application = System.Windows.Application;
+
+namespace CodeWithHeeren
+{
+    public partial class App : Application
+    {
+    }
+
+}
+```
+---
