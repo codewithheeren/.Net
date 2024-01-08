@@ -36,7 +36,9 @@ After Click on SetValue button
 
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/904caa42-d6de-4aa0-9b3b-efe6c22a7560)  
 
-14. Implement horizontal and vertical grid splitter. Ref Design -   
+14. Implement horizontal and vertical grid splitter. Ref Design -
+    ![image](https://github.com/codewithheeren/.Net/assets/87074236/33e1e718-3ded-401b-9510-a373da002ea1)
+
 
 
 
