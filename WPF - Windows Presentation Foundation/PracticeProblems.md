@@ -32,7 +32,12 @@ After Click on SetValue button
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/1064547e-64af-4a08-9b7c-0b9276074ffb)  
 
 12. Generate folder browser dialog box on click of button
-13. Implement Stack Panel , Nested stack panel with different orientations. Ref Design - 
+13. Implement Stack Panel , Nested stack panel with different orientations. Ref Design -
+
+![image](https://github.com/codewithheeren/.Net/assets/87074236/904caa42-d6de-4aa0-9b3b-efe6c22a7560)
+
+
+
 
 Some Important properties - 
 button -
