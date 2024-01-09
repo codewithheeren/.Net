@@ -1,4 +1,4 @@
-## WPF - Grid Splitter Implementation
+## WPF - Custom Application Window
 
 /* 
 17. Implement custom window minimize,maimize and close button , also on left click window could be drag.
