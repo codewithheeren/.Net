@@ -40,9 +40,15 @@ After Click on SetValue button
 
     ![image](https://github.com/codewithheeren/.Net/assets/87074236/33e1e718-3ded-401b-9510-a373da002ea1)
 
-15.1 Implement Expender to see further information . Ref Design -  
+15.1 Implement Expender to see further information . Ref Design -    
 
-15.2 Implement vertical Expender to show hide details, also add show details toggle button to expend vertical expender.  Ref Design -  
+![image](https://github.com/codewithheeren/.Net/assets/87074236/8d2a0f57-52ae-4b4e-932d-49d5f05cba5f)  
+
+15.2 Implement vertical Expender to show hide details, also add show details toggle button to expend vertical expender.  Ref Design -    
+
+![image](https://github.com/codewithheeren/.Net/assets/87074236/417d5fe4-df98-46cd-b4c1-a874dbec8939)  
+
+
 
  
 
