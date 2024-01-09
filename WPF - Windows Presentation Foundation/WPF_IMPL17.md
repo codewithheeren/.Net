@@ -3,7 +3,7 @@
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/70ab5e37-b38c-4275-9cea-8449bc34d545)
 
 /* 
-18. Open custom window with show and show dialog opetions. 
+18.1 Open custom window with show and show dialog opetions. 
 */   
 
 ### MainWindow.xaml
