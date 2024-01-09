@@ -56,9 +56,13 @@ After Click on SetValue button
 
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/208e9542-cfde-4adc-924c-4586868e6c24)
 
-18. Open custom window with show and show dialog opetions. Ref. Design-
+18.1 Open custom window with show and show dialog opetions. Ref. Design-
     
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/9bf863cf-2053-4f71-b26c-f61677ae4a0e)
+
+18.2  Open custom window with show and show dialog opetions. Ref. Design-  
+
+![image](https://github.com/codewithheeren/.Net/assets/87074236/24062cf4-df2a-44b5-b48c-4c390939a63d)  
 
 
 
