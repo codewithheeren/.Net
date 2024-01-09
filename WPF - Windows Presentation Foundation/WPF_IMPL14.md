@@ -1,4 +1,4 @@
-## WPF - Grid Splitter Implementation
+## WPF - Expender Implementation
 
 /* 
 15.2 Implement veritcal Expender to see further information .
