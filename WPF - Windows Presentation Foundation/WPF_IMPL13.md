@@ -1,4 +1,4 @@
-## WPF - Grid Splitter Implementation
+## WPF - Expender Implementation
 
 /* 
 15.1 Implement Expender to see further information .
