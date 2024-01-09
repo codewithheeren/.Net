@@ -32,27 +32,23 @@ After Click on SetValue button
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/1064547e-64af-4a08-9b7c-0b9276074ffb)  
 
 12. Generate folder browser dialog box on click of button
-13. Implement Stack Panel , Nested stack panel with different orientations. Ref Design -
+13. Implement Stack Panel , Nested stack panel with different orientations. Ref. Design -
 
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/904caa42-d6de-4aa0-9b3b-efe6c22a7560)  
 
-14. Implement horizontal and vertical grid splitter. Ref Design -
+14. Implement horizontal and vertical grid splitter. Ref. Design -
 
     ![image](https://github.com/codewithheeren/.Net/assets/87074236/33e1e718-3ded-401b-9510-a373da002ea1)
 
-15.1 Implement Expender to see further information . Ref Design -    
+15.1 Implement Expender to see further information . Ref. Design -    
 
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/8d2a0f57-52ae-4b4e-932d-49d5f05cba5f)  
 
-15.2 Implement vertical Expender to show hide details, also add show details toggle button to expend vertical expender.  Ref Design -    
+15.2 Implement vertical Expender to show hide details, also add show details toggle button to expend vertical expender.  Ref. Design -    
 
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/417d5fe4-df98-46cd-b4c1-a874dbec8939)  
 
-
-
- 
-
-
+16. Add scroll bar when When frame will be resize to smaller size. Ref. Design -  
 
 
 
