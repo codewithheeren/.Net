@@ -52,6 +52,8 @@ After Click on SetValue button
 
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/115cbc50-b2c9-4419-861d-3a23d55c28b0)
 
+17. Implement custom window minimize,maimize and close button , also on left click window could be drag. Ref. Design-  
+
 
 
 
