@@ -1,4 +1,4 @@
-## WPF - Grid Splitter Implementation
+## WPF - Scroll Bar Implementation
 
 /* 
 16. Add scroll bar when When frame will be resize to smaller size.
