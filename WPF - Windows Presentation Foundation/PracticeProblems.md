@@ -50,6 +50,8 @@ After Click on SetValue button
 
 16. Add scroll bar when When frame will be resize to smaller size. Ref. Design -  
 
+![image](https://github.com/codewithheeren/.Net/assets/87074236/115cbc50-b2c9-4419-861d-3a23d55c28b0)
+
 
 
 
