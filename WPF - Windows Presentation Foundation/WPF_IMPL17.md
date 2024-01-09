@@ -1,7 +1,7 @@
 ## WPF - Open new window on click on button.
 
 /* 
-18. Open custmo window with show and show dialog opetions. Ref. Design-  
+18. Open custom window with show and show dialog opetions. 
 */   
 
 ### MainWindow.xaml
