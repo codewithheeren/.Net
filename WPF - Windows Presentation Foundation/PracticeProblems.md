@@ -64,8 +64,12 @@ After Click on SetValue button
 
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/24062cf4-df2a-44b5-b48c-4c390939a63d)  
 
-19. Create Cutom styles for button and text fields and apply them. Ref. Design-  
- 
+19.1 Create Cutom styles for button and text fields and apply them. Ref. Design-
+
+ ![image](https://github.com/codewithheeren/.Net/assets/87074236/91f4ea97-533c-4c47-84ae-5647d66f6579)  
+
+19.2 Refer Custom Styles for entire application. 
+
 
 
 
