@@ -69,6 +69,10 @@ After Click on SetValue button
  ![image](https://github.com/codewithheeren/.Net/assets/87074236/91f4ea97-533c-4c47-84ae-5647d66f6579)  
 
 19.2 Create Cutom styles and apply them to entire application.  
+with the previous Design , add external style files.  -  
+![image](https://github.com/codewithheeren/.Net/assets/87074236/7321e079-e4a5-426f-bbcd-1cd3c74e70ae)   
+
+
 
 
 
