@@ -68,7 +68,7 @@ After Click on SetValue button
 
  ![image](https://github.com/codewithheeren/.Net/assets/87074236/91f4ea97-533c-4c47-84ae-5647d66f6579)  
 
-19.2 Refer Custom Styles for entire application. 
+19.2 Create Cutom styles and apply them to entire application.  
 
 
 
