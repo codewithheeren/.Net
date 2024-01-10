@@ -3,6 +3,9 @@
 /* 
 19.2 Create Cutom styles and apply them to entire application.
 */   
+### Directory Structure -  
+![image](https://github.com/codewithheeren/.Net/assets/87074236/21f46039-0e14-4f94-b0f4-068650371bfb)  
+
 
 ### MainWindow.xaml
 
