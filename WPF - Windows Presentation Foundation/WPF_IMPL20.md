@@ -6,7 +6,7 @@
 ### Directory Structure -  
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/21f46039-0e14-4f94-b0f4-068650371bfb)  
 
-
+### Note - Add Resoure Dictonary file to Styles folder and add Styles there.
 ### MainWindow.xaml
 
 ```html
@@ -76,8 +76,6 @@ namespace CodeWithHeeren
 ---
 
 ### ButtonStyles.xaml
-## Add Resoure Dictonary file to Styles folder and add Styles there.
- 
 ```html
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
