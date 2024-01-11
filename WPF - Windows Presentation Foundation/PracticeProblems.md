@@ -12,7 +12,8 @@ Note - If you directly drag and drop form component then it will automatically a
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/435e33d1-c3e5-4300-9799-64e547fd5336)
 
 9. Create a form to get customer details such as name, address,contact, pincode.
-    1. Create form with out using custom control for text box.
+    1. Create form with out using custom control for text box. Ref. Image-
+       ![image](https://github.com/codewithheeren/.Net/assets/87074236/3dd00bbb-68f5-4a9e-b1c7-9f90b4e35c35)        
     2. Create a custom text box .
     3. Implement Custom Controls in User form page.
     4. Add events to the form such as clear button should work, text box should be editable.  
