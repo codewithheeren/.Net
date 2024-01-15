@@ -9,5 +9,7 @@ on clicking on each button it should open message box with some message. Design 
 
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/8293c30b-ff5d-4f74-92d6-d3ec6c13b6fd)
 
-  
+   
+3. Create a custom event class , where on click on button a proprty of cutom event class change and message popup show saying - poperty get changed.
+
  
