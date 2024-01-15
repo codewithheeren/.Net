@@ -12,4 +12,4 @@ on clicking on each button it should open message box with some message. Design 
    
 3. Create a custom event class , where on click on button a proprty of cutom event class change and message popup show saying - poperty get changed.
 
- 
+4. Create an simple implementaion of data binding. for text block , text comes from MainWindow class property.
