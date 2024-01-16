@@ -16,4 +16,8 @@ on clicking on each button it should open message box with some message. Design 
 
 5. Create another simple implementation of data binding for text block with text box Whatever we write in text box should be display in text block .
 
-6. Create a form which takes information and make two way binding , on making changes in property, changes should display in alert on click on show data button. Ref img-  
+6. Create a form which takes information and make two way binding , on making changes in property, changes should display in alert on click on show data button. Ref img-
+
+ ![image](https://github.com/codewithheeren/.Net/assets/87074236/39bca77c-8391-471d-8e77-106f02bdfcb3)  
+
+8. Do the same data binding between components on click on checkbox , text boxes data should display in text block .
