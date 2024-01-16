@@ -15,3 +15,5 @@ on clicking on each button it should open message box with some message. Design 
 4. Create an simple implementaion of data binding. for text block , text comes from MainWindow class property.
 
 5. Create another simple implementation of data binding for text block with text box Whatever we write in text box should be display in text block .
+
+6. Create a form which takes information and make two way binding , on making changes in property, changes should display in alert on click on show data button. Ref img-  
