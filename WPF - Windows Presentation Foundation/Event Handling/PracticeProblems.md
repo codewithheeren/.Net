@@ -24,4 +24,8 @@ on clicking on each button it should open message box with some message. Design 
 3. Create a custom event class , where on click on button a proprty of cutom event class change and message popup show saying - poperty get changed.
 
 4. Create an employee form to take firstname,lastname,fullname. when user change first name or last name , full name full change automatically using INotifyPropertyChange event . Ref. Img -
+
+![image](https://github.com/codewithheeren/.Net/assets/87074236/30675eb8-2c8c-471a-b643-fb198a6c15ef)  
+
+
  
