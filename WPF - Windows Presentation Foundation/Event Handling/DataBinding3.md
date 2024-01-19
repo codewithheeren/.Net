@@ -1,6 +1,6 @@
 ## WPF - Data Binding
 
-### 6. Create a form which takes information and make two way binding , on making changes in property, changes should display in alert on click on show data button.
+### 3. Create a form which takes information and make two way binding , on making changes in property, changes should display in alert on click on show data button.
 
 ### MainWindow.xaml
 ```html

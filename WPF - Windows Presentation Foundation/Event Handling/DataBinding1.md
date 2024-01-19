@@ -1,6 +1,6 @@
-## WPF - Custom Event
+## WPF - Data Binding
 
-### 4. Create an simple implementaion of data binding. for text block , text comes from MainWindow class property..
+### 1. Create an simple implementaion of data binding. for text block , text comes from MainWindow class property.
 
 ### MainWindow.xaml
 ```html
@@ -13,10 +13,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock x:Name="textBlock" Text="{Binding ElementName = textbox, Path=Text}"  />
-        <TextBox x:Name="textbox" Width="200" Height="30" FontSize="18"  VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <TextBlock x:Name="textBlock" Text="{Binding MyProperty}"  VerticalAlignment="Center" HorizontalAlignment="Center" />
     </Grid>
 </Window>
+
 
 ```
 ---
@@ -32,7 +32,12 @@ namespace CodeWithHeeren
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = this;
+            MyProperty = "Initial Value";
         }
+
+        public string MyProperty { get; set; }
+     
     }
 }
 ```
