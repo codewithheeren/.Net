@@ -28,4 +28,6 @@ on clicking on each button it should open message box with some message. Design 
 ![image](https://github.com/codewithheeren/.Net/assets/87074236/30675eb8-2c8c-471a-b643-fb198a6c15ef)  
 
 
- 
+ ### Command Binding
+
+ 1. On click on button , populate a message box saying HI. but this should be done using command class binding.
