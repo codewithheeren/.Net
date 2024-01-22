@@ -4,22 +4,43 @@
 
 ### MainWindow.xaml
 ```html
-<Window x:Class="CodeWithHeeren.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:CodeWithHeeren"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Window.Resources>
-        <local:ViewModel x:Key="vm"/>
-    </Window.Resources>
-    <Grid >
-        <Button Content="Click" Width="90" Height="30" Command="{Binding MyCommand, Source={StaticResource vm}}" VerticalAlignment="Center" HorizontalAlignment="Center" />
+    <Grid>
+        <StackPanel>
+            <Button x:Name="btn" Content="Show Data" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" Command="{Binding MyCommand}"/>
+        </StackPanel>
     </Grid>
-</Window>
 
+```
+---
+### MainWindow.xaml.cs
+
+```cs
+using System.Windows;
+using System.Windows.Input;
+
+namespace CodeWIthHeeren
+{
+    public partial class MainWindow : Window
+    {
+        public ICommand MyCommand { get; set; }
+        public MainWindow()
+        {
+            InitializeComponent();
+            MyCommand = new CustomCommand(MethodInvoke, CanExecute);
+            this.DataContext = this;
+        }
+
+        public void MethodInvoke()
+        {
+            MessageBox.Show("Employee Data Chaged.");
+        }
+
+        public bool CanExecute()
+        {
+            return true;
+        }
+    }
+}
 ```
 ---
 ### CustomCommand.cs
@@ -31,52 +52,25 @@ namespace CodeWithHeeren
 {
     public class CustomCommand : ICommand
     {
-        Action<Object> executeMethod;
-        Func<object, bool> canExecuteFunction;
-        public CustomCommand(Action<Object> executeMethod, Func<object, bool> canExecuteFunction)
+        private Action methodInvoke;
+        private Func<bool> canExecute;
+
+        public CustomCommand(Action methodInvoke, Func<bool> canExecute)
         {
-            this.executeMethod = executeMethod;
-            this.canExecuteFunction = canExecuteFunction;
+            this.methodInvoke = methodInvoke;
+            this.canExecute = canExecute;
         }
+
         public bool CanExecute(object? parameter)
         {
-            return true;
+            return canExecute();
         }
 
         public void Execute(object? parameter)
         {
-            executeMethod(parameter);
+            methodInvoke();
         }
-
         public event EventHandler? CanExecuteChanged;
-    }
-}
-
-```
----
-### ViewModel.cs
-
-```cs
-using System.Windows;
-using System.Windows.Input;
-
-namespace CodeWithHeeren
-{
-    public class ViewModel
-    {
-        public ICommand MyCommand { get; set; }
-        public ViewModel()
-        {
-            MyCommand = new CustomCommand(Execute, CanExecute);
-        }
-        public void Execute(object? parameter)
-        {
-            MessageBox.Show("Command Message invoke");
-        }
-        public bool CanExecute(object parameter)
-        {
-            return true;
-        }
     }
 }
 

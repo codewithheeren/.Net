@@ -30,4 +30,5 @@ on clicking on each button it should open message box with some message. Design 
 
  ### Command Binding
 
- 1. On click on button , populate a message box saying HI. but this should be done using command class binding.
+ 1. On click on button , populate a message box saying HI. but this should be done using command class binding. (using mainwindow.xaml.cs class only.)
+ 2. On click on button , populate a message box saying HI. The same functionality but using mainwindow.xaml.cs class only.
