@@ -31,4 +31,9 @@ on clicking on each button it should open message box with some message. Design 
  ### Command Binding
 
  1. On click on button , populate a message box saying HI. but this should be done using command class binding. (using mainwindow.xaml.cs class only.)
+<<<<<<< HEAD
+ 2. On click on button , populate a message box saying HI. The same functionality but using mainwindow.xaml.cs class only.
+ 3. Create a WPF application with a TextBlock and a Button. Implement ICommand to bind the Button's click event to update the TextBox's text property.
+=======
  2. On click on button , populate a message box saying HI. The same functionality but using ModelView class only.
+>>>>>>> 405838b13a50dac065b2a28261771f5e7ce26883
